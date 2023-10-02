@@ -16,7 +16,7 @@ const Intro = () => {
               <Image src={photo} alt="" width={500} height={600}/> 
             </div>
             <div className="flex flex-col justify-center items-center w-full md:w-7/12 text-white  ">
-              <span className="text-4xl py-10 font-semibold">I ' m</span>
+              <span className="text-4xl py-10 font-semibold">I am</span>
               <span className="text-8xl font-extrabold pb-10">Aindrila</span>
               <span className="text-white text-5xl text-center font-semibold pb-10">
                 <TypewriterComponent
